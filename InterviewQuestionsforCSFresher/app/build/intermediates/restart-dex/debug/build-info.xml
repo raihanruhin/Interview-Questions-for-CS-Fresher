@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="63391874736887"
+    token="4985216587626484456" >
+
+    <task
+        name="javac"
+        duration="2239" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1728" />
+    <task
+        name="verifier"
+        duration="247" />
+
+    <artifact
+        location="C:\Users\raiha\AndroidStudioProjects\InterviewQuestionsforCSFresher\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="63391874736887" >
+        <artifact
+            location="C:\Users\raiha\AndroidStudioProjects\InterviewQuestionsforCSFresher\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
